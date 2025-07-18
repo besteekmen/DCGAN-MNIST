@@ -101,8 +101,10 @@ pip install -r requirements.txt
 
 ## 📸 Sample Output
 
-*(Optional: Insert a grid image of generated results here)*
-
+The loss curves progressed as below:
+![Loss Curve](/img/loss_curve.png)
+Generated fake samples at epoch 24 and batch 400:
+![Fake samples](/img/fake_samples_epoch24_batch400.png)
 ---
 
 ## 📜 License
